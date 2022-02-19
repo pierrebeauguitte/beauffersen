@@ -43,6 +43,8 @@ const englishText = {
 
 <p>There's a few cabins at the nearby village La Châtre: <a href="https://www.campingvalvertenberry.com" target="_blank">website</a></p>
 `,
+    'gift-label': 'Gift?',
+    'gift-content': '<p>We appreciate that you undertake this journey to be with us on our special day, and do not expect any wedding presents other than your presence!</p>',
     'contact': `<p>To contact us: </p>
 <p>Astrid: <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
@@ -96,6 +98,8 @@ const frenchText = {
 
 <p>Il y a quelques châlets disponibles au camping du village voisin de La Châtre : <a href="https://www.campingvalvertenberry.com" target="_blank">site</a></p>
 `,
+    'gift-label': 'Cadeau ?',
+    'gift-content': '<p>Le plus important pour nous est que vous soyez présents ce jour avec nous, et nous n\'attendons pas d\'autres cadeaux que ça !</p>',
     'contact': `<p>Pour nous contacter :</p>
 <p>Astrid : <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre : <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
@@ -148,6 +152,8 @@ const norwegianText = {
 <h3>Camping i La Châtre</h3>
 
 <p>Det er noen campinghytter i landsbyen La Châtre: <a href="https://www.campingvalvertenberry.com" target="_blank">nettside</a></p>`,
+    'gift-label': 'Gave?',
+    'gift-content': '<p>Vi setter stor pris på at dere tilbringer dagen med oss og forventer ingen bryllupsgave utover det!</p>',
     'contact': `<p>Kontakt:</p>
 <p>Astrid: <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
@@ -161,6 +167,8 @@ function setValues(dict) {
     document.getElementById('transport-content').innerHTML = dict['transport-content'];
     document.getElementById('accommodation-label').innerHTML = dict['accommodation-label'];
     document.getElementById('accommodation-content').innerHTML = dict['accommodation-content'];
+    document.getElementById('gift-label').innerHTML = dict['gift-label'];
+    document.getElementById('gift-content').innerHTML = dict['gift-content'];
     document.getElementById('contact').innerHTML = dict['contact'];
     document.getElementById('rsvp-text').innerHTML = dict['rsvp'];
 }
