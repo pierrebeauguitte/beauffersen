@@ -46,7 +46,7 @@ const englishText = {
     'contact': `<p>To contact us: </p>
 <p>Astrid: <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
-    'rsvp': 'RSVP - please send by 1. April!',
+    'rsvp': 'RSVP - please send by 1st June!',
     'thingstodo-label': 'Things to do nearby',
     'thingstodo-content': '<p>Coming soon!</p>'
 };
@@ -99,7 +99,7 @@ const frenchText = {
     'contact': `<p>Pour nous contacter :</p>
 <p>Astrid : <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre : <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
-    'rsvp': 'RSVP - à remplir avant le premier avril !',
+    'rsvp': 'RSVP - à remplir avant le 1er juin !',
     'thingstodo-label': 'À voir ou faire dans les environs',
     'thingstodo-content': '<p>Coming soon!</p>'
 };
@@ -151,7 +151,7 @@ const norwegianText = {
     'contact': `<p>Kontakt:</p>
 <p>Astrid: <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
-    'rsvp': 'RSVP - vennligst send før 1. april!'
+    'rsvp': 'RSVP - vennligst send før 1. juni!'
 };
 
 function setValues(dict) {
