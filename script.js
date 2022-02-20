@@ -175,12 +175,12 @@ function setValues(dict) {
 
 function setText() {
     querystring = window.location.search;
-    if (querystring === '?lang=fr')
-	setValues(frenchText);
+    if (querystring === '?lang=en')
+	setValues(englishText);
     else if (querystring === '?lang=no')
 	setValues(norwegianText);
     else
-	setValues(englishText); 
+	setValues(frenchText);
 }
 
 window.onload = setText();
