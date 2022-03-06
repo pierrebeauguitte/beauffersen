@@ -9,7 +9,12 @@ const englishText = {
 	<p>There will be games, snacks, music and dance, visit of the keep, a ceremony and vin d'honneur, and a dinner!</p>
 <p>Children of all ages are welcome.</p>`,
     'transport-label': 'Transport',
-    'transport-content': `<p>Sarzay is in the middle of France and literally in the middle of nowhere! Coming by train from Paris, the most accessible city nearby is Châteauroux (35 km) with several departures a day. Pierre’s hometown Issoudun is a little less accessible (but more charming, in our opinion!) by train with only three departures daily. To buy train tickets: <a href="https://www.sncf.com/en" target="_blank">SNCF</a>.</p>
+    'transport-content': `<p>Sarzay is in the middle of France and literally in the middle of nowhere! Coming by train from Paris, the most accessible city nearby is Châteauroux (35 km) with several departures a day. Pierre’s hometown Issoudun is a little less accessible (but more charming, in our opinion!) by train with only three departures daily. To buy train tickets: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>. Trains to both Issoudun and Châteauroux depart from the Gare d'Austerlitz.</p>
+<p>If you fly to Paris:</p>
+<ul>
+<li>from Roissy / CDG airport: take the RER B southbound train, until Saint-Michel Notre-Dame. From there, take the subway line 10 to the train station. Alternatively, a taxi ride costs €58.</li>
+<li>from Orly airport: take the ORLYVal, then the RER B northbound train, until Saint-Michel Notre-Dame. From there, take the subway line 10 to the train station. Alternatively, a taxi ride costs €32.</li>
+</ul>
 <p>La Châtre is a village situated 9km from Sarzay and accessible from Châteauroux by bus (bus times <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">here</a>) and there are some B&Bs there.</p>
 
 	    <p>On the wedding day, we will organise transport to the château of Sarzay and back from the following three places: Châteauroux (35 km), Issoudun (45 km) and La Châtre (9 km).</p>
@@ -65,7 +70,7 @@ const frenchText = {
 	<p>Au programme : jeux, snacks, musique et danse, cérémonie et vin d'honneur, et bien sûr un dîner !</p>
 	<p>Les enfants de tous âges sont bienvenus.</p>`,
     'transport-label': 'Transport',
-    'transport-content': `<p>Sarzay est en plein cœur de la France, et au milieu de nulle part ! En prenant le train depuis Paris, la ville proche la plus accessible est Châteauroux (35km) avec plusieurs départs par jour. La ville natale de Pierre, Issoudun, est un petit peu moins bien connectée (mais plus charmante, selon nous !) avec seulement 3 départs quotidiens. Pour acheter vos billets de train : <a href="https://www.sncf.com/fr" target="_blank">SNCF</a>.</p>
+    'transport-content': `<p>Sarzay est en plein cœur de la France, et au milieu de nulle part ! En prenant le train depuis Paris, la ville proche la plus accessible est Châteauroux (35km) avec plusieurs départs par jour. La ville natale de Pierre, Issoudun, est un petit peu moins bien connectée (mais plus charmante, selon nous !) avec seulement 3 départs quotidiens. Pour acheter vos billets de train : <a href="https://www.sncf-connect.com/billet-train" target="_blank">SNCF</a>.</p>
 <p>La Châtre est un village situé à 9 km de Sarzay et accessible en bus depuis Châteauroux (horaires <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">ici</a>) où il y a quelques gîtes et logements.</p>
 
 <p>Le jour du mariage, nous organiserons un transport aller/retour pour le Château de Sarzay depuis 3 villes : Châteauroux (35km), Issoudun (45km) et La Châtre (9km).</p>
@@ -119,8 +124,12 @@ const norwegianText = {
 	<p>Det blir leker, snacks, musikk, dans, besøk i borgtårnet, en seremoni, cocktail og middag!</p>
 	<p>Barn i alle aldre er velkomne.</p>`,
     'transport-label': 'Transport',
-    'transport-content': `<p>Sarzay ligger midt i Frankrike og bokstavelig talt in the middle of nowhere! Hvis du kommer med tog fra Paris, er den mest tilgjengelige byen Châteauroux (35 km) med mange avganger hver dag. Pierres hjemby Issoudun (45 km) er noe mindre tilgjengelig med tog med bare tre avganger daglig (men destod koseligere etter vår mening!). For å kjøpe togbilletter: <a href="https://www.sncf.com/en" target="_blank">SNCF</a>.</p>
-
+    'transport-content': `<p>Sarzay ligger midt i Frankrike og bokstavelig talt in the middle of nowhere! Hvis du kommer med tog fra Paris, er den mest tilgjengelige byen Châteauroux (35 km) med mange avganger hver dag. Pierres hjemby Issoudun (45 km) er noe mindre tilgjengelig med tog med bare tre avganger daglig (men destod koseligere etter vår mening!). For å kjøpe togbilletter: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>. Tog til både Issoudun og Châteauroux drar fra togstasjonen Gare d’Austerlitz i Paris.</p>
+<p>Hvis du flyr til Paris:</p>
+<ul>
+<li>fra Roissy / Charles de Gaulle flyplass: ta forstadstoget RER B sørover til stoppet Saint-Michel Notre-Dame. Ta metro (linje 10) derfra til togstasjonen. Alternativt koster en taxitur fra flyplassen €58.</li>
+<li>fra Orly flyplass: ta flyplasstoget ORLYVal, så forstadstoget RER B nordover til stoppet Saint-Michel Notre-Dame. Ta metro (linje 10) derfra til togstasjonen. Alternativt koster en taxitur fra flyplassen €32.</li>
+</ul>
 <p>La Châtre er en landsby 9 km unna og er tilgjengelig fra Châteauroux med buss (busstider <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">her</a>) og det er noen vertshus der.</p>
 
 <p>På bryllupsdagen organiserer vi transport til og fra slottet fra tre steder: Châteauroux (35 km), Issoudun (45 km) og La Châtre (9 km).</p>
