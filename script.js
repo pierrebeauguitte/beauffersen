@@ -17,7 +17,7 @@ const englishText = {
 </ul>
 <p>La Châtre is a village situated 9km from Sarzay and accessible from Châteauroux by bus (bus times <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">here</a>) and there are some B&Bs there.</p>
 
-	    <p>On the wedding day, we will organise transport to the château of Sarzay and back from the following three places: Châteauroux (35 km), Issoudun (45 km) and La Châtre (9 km).</p>
+	    <p>On the wedding day, we will organise transport to the château of Sarzay and back from Châteauroux (35 km).</p>
 
 	    <p>Please let us know if you’re interested in this and from which place.</p>`,
     'accommodation-label': 'Accommodation',
@@ -73,7 +73,7 @@ const frenchText = {
     'transport-content': `<p>Sarzay est en plein cœur de la France, et au milieu de nulle part ! En prenant le train depuis Paris, la ville proche la plus accessible est Châteauroux (35km) avec plusieurs départs par jour. La ville natale de Pierre, Issoudun, est un petit peu moins bien connectée (mais plus charmante, selon nous !) avec seulement 3 départs quotidiens. Pour acheter vos billets de train : <a href="https://www.sncf-connect.com/billet-train" target="_blank">SNCF</a>.</p>
 <p>La Châtre est un village situé à 9 km de Sarzay et accessible en bus depuis Châteauroux (horaires <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">ici</a>) où il y a quelques gîtes et logements.</p>
 
-<p>Le jour du mariage, nous organiserons un transport aller/retour pour le Château de Sarzay depuis 3 villes : Châteauroux (35km), Issoudun (45km) et La Châtre (9km).</p>
+<p>Le jour du mariage, nous organiserons un transport aller/retour pour le Château de Sarzay depuis Châteauroux (35km).</p>
 
 <p>Merci de nous faire savoir si cela vous intéresse, et depuis quel endroit.</p>`,
     'accommodation-label': 'Hébergement',
@@ -132,7 +132,7 @@ const norwegianText = {
 </ul>
 <p>La Châtre er en landsby 9 km unna og er tilgjengelig fra Châteauroux med buss (busstider <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">her</a>) og det er noen vertshus der.</p>
 
-<p>På bryllupsdagen organiserer vi transport til og fra slottet fra tre steder: Châteauroux (35 km), Issoudun (45 km) og La Châtre (9 km).</p>
+<p>På bryllupsdagen organiserer vi transport til og fra slottet fra Châteauroux (35 km).</p>
 
 <p>Si fra til oss om du/dere ønsker å benytte dette og fra hvilket sted!</p>`,
     'accommodation-label': 'Overnatting',
