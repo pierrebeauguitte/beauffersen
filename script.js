@@ -54,8 +54,8 @@ const englishText = {
 <p>Astrid: <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
     'rsvp': 'RSVP - please send by 1st June!',
-    'thingstodo-label': 'Things to do nearby',
-    'thingstodo-content': '<p>Coming soon!</p>'
+    'dresscode-label': 'Dress code',
+    'dresscode-content': '<p>We want to have a laidback wedding so put on something summery and nice, but not too formal. Suit is allowed, but in no way mandatory! If you really want to wear red or white (traditionally «forbidden colours»), feel free to do so. And remember that it’s usually around 30 degrees in Berry in the summer.</p>'
 };
 
 
@@ -109,8 +109,8 @@ const frenchText = {
 <p>Astrid : <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre : <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
     'rsvp': 'RSVP - à remplir avant le 1er juin !',
-    'thingstodo-label': 'À voir ou faire dans les environs',
-    'thingstodo-content': '<p>Coming soon!</p>'
+    'dresscode-label': 'Dress code',
+    'dresscode-content': '<p>Nous voulons une fête à l’ambiance détendue, donc habillez-vous bien pour la saison, mais pas de manière trop formelle. Un costard est autorisé, mais absolument pas obligatoire. Si vous voulez porter du blanc ou du rouge (couleurs traditionnellement «interdites»), ne vous en privez pas. Et rappelez-vous que la température en Berry l’été est souvent autour de 30 degrés.</p>'
 };
 
 const norwegianText = {
@@ -166,7 +166,9 @@ const norwegianText = {
     'contact': `<p>Kontakt:</p>
 <p>Astrid: <a href="mailto:astrid.kristoffersen@gmail.com">astrid.kristoffersen@gmail.com</a>, +47 980 96 570</p>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
-    'rsvp': 'RSVP - vennligst send før 1. juni!'
+    'rsvp': 'RSVP - vennligst send før 1. juni!',
+    'dresscode-label': 'Kleskode',
+    'dresscode-content': '<p>Vi ønsker å ha et laidback bryllup så kle deg sommerfint, men ikke for formelt. Dress er tillatt, men på ingen måte påbudt! Kle deg gjerne i hvitt eller rødt (tradisjonelt «forbudte farger») hvis du føler for det. Husk forresten på at det pleier å være rundt 30 grader i Berry om sommeren.</p>'
 };
 
 function setValues(dict) {
@@ -178,6 +180,8 @@ function setValues(dict) {
     document.getElementById('accommodation-content').innerHTML = dict['accommodation-content'];
     document.getElementById('gift-label').innerHTML = dict['gift-label'];
     document.getElementById('gift-content').innerHTML = dict['gift-content'];
+    document.getElementById('dresscode-label').innerHTML = dict['dresscode-label'];
+    document.getElementById('dresscode-content').innerHTML = dict['dresscode-content'];
     document.getElementById('contact').innerHTML = dict['contact'];
     document.getElementById('rsvp-text').innerHTML = dict['rsvp'];
 }
