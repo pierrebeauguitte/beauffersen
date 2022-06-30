@@ -4,10 +4,15 @@ const englishText = {
 <h3>... and we hope you can join us to celebrate!</h3>
 <p>July 9th, at Château de Sarzay (<a href="https://sarzay.net/" target="_blank">website</a>, <a href="https://goo.gl/maps/X4vhXYHizvhCu15D9" target="_blank">map</a>).</p>
 
-	<p>We open the gates at 2pm.</p>
-
-	<p>There will be games, snacks, music and dance, visit of the keep, a ceremony and vin d'honneur, and a dinner!</p>
-<p>Children of all ages are welcome.</p>`,
+<table>
+<tr><td>14h</td><td>Gates open</td></tr>
+<tr><td>15h</td><td>Wedding ceremony</td></tr>
+<tr><td>15h30</td><td><em>Vin d'honneur</em><br/>
+Drinks, finger food, photo session</td></tr>
+<tr><td>17h</td><td><em>Bal folk</em> - put on your dancing shoes!</td></tr>
+<tr><td>18h30</td><td>Dinner</td></tr>
+</table>
+`,
     'transport-label': 'Transport',
     'transport-content': `<p>Sarzay is in the middle of France and literally in the middle of nowhere! Coming by train from Paris, the most accessible city nearby is Châteauroux (35 km) with several departures a day. Pierre’s hometown Issoudun is a little less accessible (but more charming, in our opinion!) by train with only three departures daily. To buy train tickets: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>. Trains to both Issoudun and Châteauroux depart from the Gare d'Austerlitz.</p>
 <p>If you fly to Paris:</p>
@@ -65,10 +70,15 @@ const frenchText = {
 <h3>... et on espère que vous viendrez célébrer avec nous !</h3>
 <p>Le 9 juillet au Château de Sarzay (<a href="https://sarzay.net/" target="_blank">site</a>, <a href="https://goo.gl/maps/X4vhXYHizvhCu15D9" target="_blank">carte</a>).</p>
 
-	<p>Ouverture des portes à 14h.</p>
-
-	<p>Au programme : jeux, snacks, musique et danse, cérémonie et vin d'honneur, et bien sûr un dîner !</p>
-	<p>Les enfants de tous âges sont bienvenus.</p>`,
+<table>
+<tr><td>14h</td><td>Ouverture des portes</td></tr>
+<tr><td>15h</td><td>Cérémonie</td></tr>
+<tr><td>15h30</td><td><em>Vin d'honneur</em><br/>
+Boissons, amuse-gueules, séance photo</td></tr>
+<tr><td>17h</td><td><em>Bal folk</em> - soyez prêts à danser !</td></tr>
+<tr><td>18h30</td><td>Dîner</td></tr>
+</table>
+`,
     'transport-label': 'Transport',
     'transport-content': `<p>Sarzay est en plein cœur de la France, et au milieu de nulle part ! En prenant le train depuis Paris, la ville proche la plus accessible est Châteauroux (35km) avec plusieurs départs par jour. La ville natale de Pierre, Issoudun, est un petit peu moins bien connectée (mais plus charmante, selon nous !) avec seulement 3 départs quotidiens. Pour acheter vos billets de train : <a href="https://www.sncf-connect.com/billet-train" target="_blank">SNCF</a>.</p>
 <p>La Châtre est un village situé à 9 km de Sarzay et accessible en bus depuis Châteauroux (horaires <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">ici</a>) où il y a quelques gîtes et logements.</p>
@@ -119,10 +129,15 @@ const norwegianText = {
 <h3>... og vi håper du vil feire med oss!</h3>
 <p>9. juli, Château de Sarzay (<a href="https://sarzay.net/" target="_blank">nettside</a>, <a href="https://goo.gl/maps/X4vhXYHizvhCu15D9" target="_blank">kart</a>).</p>
 
-	<p>Dørene åpner klokka 14.</p>
-
-	<p>Det blir leker, snacks, musikk, dans, besøk i borgtårnet, en seremoni, cocktail og middag!</p>
-	<p>Barn i alle aldre er velkomne.</p>`,
+<table>
+<tr><td>14h</td><td>Dørene åpner</td></tr>
+<tr><td>15h</td><td>Vielse</td></tr>
+<tr><td>15h30</td><td><em>Vin d'honneur</em><br/>
+Drink, fingermat, fotografering</td></tr>
+<tr><td>17h</td><td><em>Bal folk</em> - ta med deg danseskoene!</td></tr>
+<tr><td>18h30</td><td>Middag</td></tr>
+</table>
+`,
     'transport-label': 'Transport',
     'transport-content': `<p>Sarzay ligger midt i Frankrike og bokstavelig talt in the middle of nowhere! Hvis du kommer med tog fra Paris, er den mest tilgjengelige byen Châteauroux (35 km) med mange avganger hver dag. Pierres hjemby Issoudun (45 km) er noe mindre tilgjengelig med tog med bare tre avganger daglig (men destod koseligere etter vår mening!). For å kjøpe togbilletter: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>. Tog til både Issoudun og Châteauroux drar fra togstasjonen Gare d’Austerlitz i Paris.</p>
 <p>Hvis du flyr til Paris:</p>
