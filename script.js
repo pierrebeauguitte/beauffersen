@@ -14,17 +14,23 @@ Drinks, finger food, photo session</td></tr>
 </table>
 `,
     'transport-label': 'Transport',
-    'transport-content': `<p>Sarzay is in the middle of France and literally in the middle of nowhere! Coming by train from Paris, the most accessible city nearby is Châteauroux (35 km) with several departures a day. Pierre’s hometown Issoudun is a little less accessible (but more charming, in our opinion!) by train with only three departures daily. To buy train tickets: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>. Trains to both Issoudun and Châteauroux depart from the Gare d'Austerlitz.</p>
-<p>If you fly to Paris:</p>
+    'transport-content': `<p>Sarzay is in the middle of France and literally in the middle of nowhere! Coming by train from Paris, the most accessible city nearby is Châteauroux (35 km) with several departures a day from the Gare d'Austerlitz in Paris. If you're going to take the train, you should buy a ticket beforehand: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>.</p>
+<p>How to get from the airports to Gare d’Austerlitz:</p>
 <ul>
-<li>from Roissy / CDG airport: take the RER B southbound train, until Saint-Michel Notre-Dame. From there, take the subway line 10 to the train station. Alternatively, a taxi ride costs €58.</li>
-<li>from Orly airport: take the ORLYVal, then the RER B northbound train, until Saint-Michel Notre-Dame. From there, take the subway line 10 to the train station. Alternatively, a taxi ride costs €32.</li>
+<li>Roissy / Charles de Gaulle airport: take the southbound suburban train RER B to Saint-Michel Notre-Dame. From there, take RER C direction south (“sud”) or metro line 10 (direction “Gare d’Austerlitz”) to the train station. The ticket costs  €10.30, and it takes around one hour from the airport stop Aéroport Charles de Gaulle 2. RER C is in our opinion the easiest since there is an escalator and a lift, and more space in the train. Remember to keep your ticket since you need it to get out. Alternatively a taxi ride from the airport costs €58.</li>
+<li>Orly airport: take the airport train ORLYVal, then the northbound suburban RER B to Saint-Michel Notre-Dame. From there, take RER C direction south (“sud”) or metro line 10 (direction “Gare d’Austerlitz”) to the train station. Alternatively a taxiride from the airport costs €32.</li>
 </ul>
+
+<p>Some spare time at Gare d’Austerlitz?<br/>
+The beautiful park Jardin des plantes is located close to the train station, so if you have some time before your train, it’s nice to spend some time there. There is also a zoo, merry-go-around and a museum there.</p>
+
+<p>Taking the train to Châteauroux<br/>
+The track number gets announces usually around 20-30 minutes before departure. All the passengers stand in front of the information boards waiting for it. In the train everything is announced in French. If you take an Intercités train, there are numbered seats, whereas in TER trains there is free seating.</p>
+
+
 <p>La Châtre is a village situated 9km from Sarzay and accessible from Châteauroux by bus (bus times <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">here</a>) and there are some B&Bs there.</p>
 
-	    <p>On the wedding day, we will organise transport to the château of Sarzay and back from Châteauroux (35 km).</p>
-
-	    <p>Please let us know if you’re interested in this and from which place.</p>`,
+	    <p>On the wedding day, we will organise transport to the château of Sarzay and back from Châteauroux (35 km). Please let us know if you’re interested in this.</p>`,
     'accommodation-label': 'Accommodation',
     'accommodation-content': `<h3>Hotels/B&Bs</h3>
 <p>In Châteauroux and Issoudun there are several hotels and B&Bs in the city centre.</p>
@@ -60,7 +66,9 @@ Drinks, finger food, photo session</td></tr>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
     'rsvp': 'RSVP - please send by 1st June!',
     'dresscode-label': 'Dress code',
-    'dresscode-content': '<p>We want to have a laidback wedding so put on something summery and nice, but not too formal. Suit is allowed, but in no way mandatory! If you really want to wear red or white (traditionally «forbidden colours»), feel free to do so. And remember that it’s usually around 30 degrees in Berry in the summer.</p>'
+    'dresscode-content': '<p>We want to have a laidback wedding so put on something summery and nice, but not too formal. Suit is allowed, but in no way mandatory! If you really want to wear red or white (traditionally «forbidden colours»), feel free to do so. And remember that it’s usually around 30 degrees in Berry in the summer.</p>',
+    'thingstodo-label': 'Things to do in the area',
+    'thingstodo-content': '<p>Here are <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">some tips of places to visit</a> in Châteauroux and in the area. Some are easily accessible by train. Don’t hesitate to reach us if you want to know more about some of them!</p>'
 };
 
 
@@ -83,9 +91,7 @@ Boissons, amuse-gueules, séance photo</td></tr>
     'transport-content': `<p>Sarzay est en plein cœur de la France, et au milieu de nulle part ! En prenant le train depuis Paris, la ville proche la plus accessible est Châteauroux (35km) avec plusieurs départs par jour. La ville natale de Pierre, Issoudun, est un petit peu moins bien connectée (mais plus charmante, selon nous !) avec seulement 3 départs quotidiens. Pour acheter vos billets de train : <a href="https://www.sncf-connect.com/billet-train" target="_blank">SNCF</a>.</p>
 <p>La Châtre est un village situé à 9 km de Sarzay et accessible en bus depuis Châteauroux (horaires <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">ici</a>) où il y a quelques gîtes et logements.</p>
 
-<p>Le jour du mariage, nous organiserons un transport aller/retour pour le Château de Sarzay depuis Châteauroux (35km).</p>
-
-<p>Merci de nous faire savoir si cela vous intéresse, et depuis quel endroit.</p>`,
+<p>Le jour du mariage, nous organiserons un transport aller/retour pour le Château de Sarzay depuis Châteauroux (35km). Merci de nous faire savoir si cela vous intéresse !</p>`,
     'accommodation-label': 'Hébergement',
     'accommodation-content': `<h3>Hôtels & gîtes</h3>
 <p>À Châteauroux et Issoudun, il y a plusieurs hôtels et gîtes en centre ville.</p>
@@ -120,7 +126,9 @@ Boissons, amuse-gueules, séance photo</td></tr>
 <p>Pierre : <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
     'rsvp': 'RSVP - à remplir avant le 1er juin !',
     'dresscode-label': 'Dress code',
-    'dresscode-content': '<p>Nous voulons une fête à l’ambiance détendue, donc habillez-vous bien pour la saison, mais pas de manière trop formelle. Un costard est autorisé, mais absolument pas obligatoire. Si vous voulez porter du blanc ou du rouge (couleurs traditionnellement «interdites»), ne vous en privez pas. Et rappelez-vous que la température en Berry l’été est souvent autour de 30 degrés.</p>'
+    'dresscode-content': '<p>Nous voulons une fête à l’ambiance détendue, donc habillez-vous bien pour la saison, mais pas de manière trop formelle. Un costard est autorisé, mais absolument pas obligatoire. Si vous voulez porter du blanc ou du rouge (couleurs traditionnellement «interdites»), ne vous en privez pas. Et rappelez-vous que la température en Berry l’été est souvent autour de 30 degrés.</p>',
+    'thingstodo-label': 'Choses à faire dans la région',
+    'thingstodo-content': '<p>Voici quelques <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">idées de choses à faire</a> à Châteauroux et dans la région. Certains des lieux sont facilement accessibles en train. N’hésitez pas à nous poser des questions si vous voulez en savoir plus !</p>'
 };
 
 const norwegianText = {
@@ -139,17 +147,22 @@ Drink, fingermat, fotografering</td></tr>
 </table>
 `,
     'transport-label': 'Transport',
-    'transport-content': `<p>Sarzay ligger midt i Frankrike og bokstavelig talt in the middle of nowhere! Hvis du kommer med tog fra Paris, er den mest tilgjengelige byen Châteauroux (35 km) med mange avganger hver dag. Pierres hjemby Issoudun (45 km) er noe mindre tilgjengelig med tog med bare tre avganger daglig (men destod koseligere etter vår mening!). For å kjøpe togbilletter: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>. Tog til både Issoudun og Châteauroux drar fra togstasjonen Gare d’Austerlitz i Paris.</p>
-<p>Hvis du flyr til Paris:</p>
+    'transport-content': `<p>Sarzay ligger midt i Frankrike og bokstavelig talt in the middle of nowhere! Hvis du kommer med tog fra Paris, er den mest tilgjengelige byen Châteauroux (35 km) med mange avganger hver dag fra togstasjonen Gare d’Austerlitz i Paris. Hvis du tar tog, er det best å kjøpe billett på forhånd: <a href="https://www.sncf-connect.com/en-en/train-ticket" target="_blank">SNCF</a>.</p>
+<p>Hvordan komme seg fra flyplassen til Gare d’Austerlitz:</p>
 <ul>
-<li>fra Roissy / Charles de Gaulle flyplass: ta forstadstoget RER B sørover til stoppet Saint-Michel Notre-Dame. Ta metro (linje 10) derfra til togstasjonen. Alternativt koster en taxitur fra flyplassen €58.</li>
-<li>fra Orly flyplass: ta flyplasstoget ORLYVal, så forstadstoget RER B nordover til stoppet Saint-Michel Notre-Dame. Ta metro (linje 10) derfra til togstasjonen. Alternativt koster en taxitur fra flyplassen €32.</li>
+<li>fra Roissy / Charles de Gaulle flyplass: ta forstadstoget RER B sørover til stoppet Saint-Michel Notre-Dame. Ta RER C retning sør (“sud”) eller metro (linje 10, retning “Gare d’Austerlitz”) derfra til togstasjonen. Billetten koster €10.30, og dette tar ca. en time fra flyplass-stoppet Aéroport Charles de Gaulle 2. RER C er etter vår mening enklest da det er rulletrapp og heis og mer plass på toget. Husk forresten å beholde billetten, du trenger den for å komme deg ut! Alternativt koster en taxitur fra flyplassen €58.</li>
+<li>fra Orly flyplass: ta flyplasstoget ORLYVal, så forstadstoget RER B nordover til stoppet Saint-Michel Notre-Dame. Ta RER C retning sør (“sud”) eller metro (linje 10, retning “Gare d’Austerlitz”) derfra til togstasjonen. RER C er etter vår mening enklest da det er rulletrapp og heis og mer plass på toget. Alternativt koster en taxitur fra flyplassen €32.</li>
 </ul>
+
+<p>Ventetid på Gare d’Austerlitz?<br/>
+Den vakre parken Jardin des plantes er like ved togstasjonen, så hvis du har litt ventetid er det fint å tilbringe tid der. Det er også dyrepark, karusell og museum der.</p>
+
+<p>Ta toget til Châteauroux<br/>
+Spornummeret annonseres vanligvis 30-20 minutter før avgang, og da står alle passasjerene og venter foran tavlene på stasjonen. På toget annonseres alt på fransk. Tar du et Intercités-tog, er det nummerte plasser, mens TER-tog har unummererte.</p>
+
 <p>La Châtre er en landsby 9 km unna og er tilgjengelig fra Châteauroux med buss (busstider <a href="https://www.remi-centrevaldeloire.fr/wp-content/uploads/36-indre/lignes-regulieres/Ligne-F.pdf" target="_blank">her</a>) og det er noen vertshus der.</p>
 
-<p>På bryllupsdagen organiserer vi transport til og fra slottet fra Châteauroux (35 km).</p>
-
-<p>Si fra til oss om du/dere ønsker å benytte dette og fra hvilket sted!</p>`,
+<p>På bryllupsdagen organiserer vi transport til og fra slottet fra Châteauroux (35 km). Si fra til oss om du/dere ønsker å benytte dette!</p>`,
     'accommodation-label': 'Overnatting',
     'accommodation-content': `<h3>Hoteller & vertshus</h3>
 <p>I Châteauroux og Issoudun er det flere hoteller og vertshus i sentrum.</p>
@@ -183,7 +196,9 @@ Drink, fingermat, fotografering</td></tr>
 <p>Pierre: <a href="mailto:pierre.beauguitte@pm.me">pierre.beauguitte@pm.me</a>, +33 6 80 44 16 36</p>`,
     'rsvp': 'RSVP - vennligst send før 1. juni!',
     'dresscode-label': 'Kleskode',
-    'dresscode-content': '<p>Vi ønsker å ha et laidback bryllup så kle deg sommerfint, men ikke for formelt. Dress er tillatt, men på ingen måte påbudt! Kle deg gjerne i hvitt eller rødt (tradisjonelt «forbudte farger») hvis du føler for det. Husk forresten på at det pleier å være rundt 30 grader i Berry om sommeren.</p>'
+    'dresscode-content': '<p>Vi ønsker å ha et laidback bryllup så kle deg sommerfint, men ikke for formelt. Dress er tillatt, men på ingen måte påbudt! Kle deg gjerne i hvitt eller rødt (tradisjonelt «forbudte farger») hvis du føler for det. Husk forresten på at det pleier å være rundt 30 grader i Berry om sommeren.</p>',
+    'thingstodo-label': 'Ting å gjøre i området',
+    'thingstodo-content': '<p>Her er <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">noen tips til ting å gjøre</a> i Châteauroux og omegn. Noen steder er tilgjengelig med tog. Ikke nøl med å kontakte oss hvis du vil vite mer!</p>'
 };
 
 function setValues(dict) {
@@ -197,6 +212,8 @@ function setValues(dict) {
     document.getElementById('gift-content').innerHTML = dict['gift-content'];
     document.getElementById('dresscode-label').innerHTML = dict['dresscode-label'];
     document.getElementById('dresscode-content').innerHTML = dict['dresscode-content'];
+    document.getElementById('thingstodo-label').innerHTML = dict['thingstodo-label'];
+    document.getElementById('thingstodo-content').innerHTML = dict['thingstodo-content'];
     document.getElementById('contact').innerHTML = dict['contact'];
     document.getElementById('rsvp-text').innerHTML = dict['rsvp'];
 }
