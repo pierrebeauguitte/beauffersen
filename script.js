@@ -68,7 +68,10 @@ The track number gets announces usually around 20-30 minutes before departure. A
     'dresscode-label': 'Dress code',
     'dresscode-content': '<p>We want to have a laidback wedding so put on something summery and nice, but not too formal. Suit is allowed, but in no way mandatory! If you really want to wear red or white (traditionally «forbidden colours»), feel free to do so. And remember that it’s usually around 30 degrees in Berry in the summer.</p>',
     'thingstodo-label': 'Things to do in the area',
-    'thingstodo-content': '<p>Here are <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">some tips of places to visit</a> in Châteauroux and in the area. Some are easily accessible by train. Don’t hesitate to reach us if you want to know more about some of them!</p>'
+    'thingstodo-content': '<p>Here are <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">some tips of places to visit</a> in Châteauroux and in the area. Some are easily accessible by train. Don’t hesitate to reach us if you want to know more about some of them!</p>',
+    'parking-label': 'Parking',
+    'parking-content': `<p>If you are coming by car, please park in one of the areas marked in blue here (the arrow points to the entry to the castle).</p>
+<img src="parking-web.png">`
 };
 
 
@@ -128,7 +131,10 @@ Boissons, amuse-gueules, séance photo</td></tr>
     'dresscode-label': 'Dress code',
     'dresscode-content': '<p>Nous voulons une fête à l’ambiance détendue, donc habillez-vous bien pour la saison, mais pas de manière trop formelle. Un costard est autorisé, mais absolument pas obligatoire. Si vous voulez porter du blanc ou du rouge (couleurs traditionnellement «interdites»), ne vous en privez pas. Et rappelez-vous que la température en Berry l’été est souvent autour de 30 degrés.</p>',
     'thingstodo-label': 'Choses à faire dans la région',
-    'thingstodo-content': '<p>Voici quelques <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">idées de choses à faire</a> à Châteauroux et dans la région. Certains des lieux sont facilement accessibles en train. N’hésitez pas à nous poser des questions si vous voulez en savoir plus !</p>'
+    'thingstodo-content': '<p>Voici quelques <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">idées de choses à faire</a> à Châteauroux et dans la région. Certains des lieux sont facilement accessibles en train. N’hésitez pas à nous poser des questions si vous voulez en savoir plus !</p>',
+    'parking-label': 'Parking',
+    'parking-content': `<p>Si vous venez en voiture, merci de vous garer dans une des zones indiquées en bleu sur la carte (la flèche indique l'entrée du château).</p>
+<img src="parking-web.png">`
 };
 
 const norwegianText = {
@@ -198,7 +204,10 @@ Spornummeret annonseres vanligvis 30-20 minutter før avgang, og da står alle p
     'dresscode-label': 'Kleskode',
     'dresscode-content': '<p>Vi ønsker å ha et laidback bryllup så kle deg sommerfint, men ikke for formelt. Dress er tillatt, men på ingen måte påbudt! Kle deg gjerne i hvitt eller rødt (tradisjonelt «forbudte farger») hvis du føler for det. Husk forresten på at det pleier å være rundt 30 grader i Berry om sommeren.</p>',
     'thingstodo-label': 'Ting å gjøre i området',
-    'thingstodo-content': '<p>Her er <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">noen tips til ting å gjøre</a> i Châteauroux og omegn. Noen steder er tilgjengelig med tog. Ikke nøl med å kontakte oss hvis du vil vite mer!</p>'
+    'thingstodo-content': '<p>Her er <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">noen tips til ting å gjøre</a> i Châteauroux og omegn. Noen steder er tilgjengelig med tog. Ikke nøl med å kontakte oss hvis du vil vite mer!</p>',
+    'parking-label': 'Parkering',
+    'parking-content': `<p>Hvis dere kommer med bil, vennligst parker på en av de blå områdene på kartet (pilen peker på slottets inngang).</p>
+<img src="parking-web.png">`
 };
 
 function setValues(dict) {
@@ -214,6 +223,8 @@ function setValues(dict) {
     document.getElementById('dresscode-content').innerHTML = dict['dresscode-content'];
     document.getElementById('thingstodo-label').innerHTML = dict['thingstodo-label'];
     document.getElementById('thingstodo-content').innerHTML = dict['thingstodo-content'];
+    document.getElementById('parking-label').innerHTML = dict['parking-label'];
+    document.getElementById('parking-content').innerHTML = dict['parking-content'];
     document.getElementById('contact').innerHTML = dict['contact'];
     document.getElementById('rsvp-text').innerHTML = dict['rsvp'];
 }
