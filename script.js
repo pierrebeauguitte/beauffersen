@@ -71,7 +71,7 @@ The track number gets announces usually around 20-30 minutes before departure. A
     'thingstodo-content': '<p>Here are <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">some tips of places to visit</a> in Châteauroux and in the area. Some are easily accessible by train. Don’t hesitate to reach us if you want to know more about some of them!</p>',
     'parking-label': 'Parking',
     'parking-content': `<p>If you are coming by car, please park in one of the areas marked in blue here (the arrow points to the entry to the castle).</p>
-<img src="parking-web.png">`
+<img src="parking-web.png" id="map">`
 };
 
 
@@ -134,7 +134,7 @@ Boissons, amuse-gueules, séance photo</td></tr>
     'thingstodo-content': '<p>Voici quelques <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">idées de choses à faire</a> à Châteauroux et dans la région. Certains des lieux sont facilement accessibles en train. N’hésitez pas à nous poser des questions si vous voulez en savoir plus !</p>',
     'parking-label': 'Parking',
     'parking-content': `<p>Si vous venez en voiture, merci de vous garer dans une des zones indiquées en bleu sur la carte (la flèche indique l'entrée du château).</p>
-<img src="parking-web.png">`
+<img src="parking-web.png" id="map">`
 };
 
 const norwegianText = {
@@ -207,7 +207,7 @@ Spornummeret annonseres vanligvis 30-20 minutter før avgang, og da står alle p
     'thingstodo-content': '<p>Her er <a href="https://goo.gl/maps/EkC5mcRmcCbS8dku5" target="_blank">noen tips til ting å gjøre</a> i Châteauroux og omegn. Noen steder er tilgjengelig med tog. Ikke nøl med å kontakte oss hvis du vil vite mer!</p>',
     'parking-label': 'Parkering',
     'parking-content': `<p>Hvis dere kommer med bil, vennligst parker på en av de blå områdene på kartet (pilen peker på slottets inngang).</p>
-<img src="parking-web.png">`
+<img src="parking-web.png" id="map">`
 };
 
 function setValues(dict) {
